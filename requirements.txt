@@ -1,0 +1,6 @@
+youtube-transcript-api
+faiss-cpu
+sentence-transformers
+gradio
+groq
+numpy
